@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import { Press_Start_2P, VT323 } from "next/font/google";
 import "./globals.css";
 
+// Cloudflare Pages requires Edge runtime for SSR routes
+export const runtime = "edge";
+
 const pressStart = Press_Start_2P({
   variable: "--font-press-start",
   weight: "400",
