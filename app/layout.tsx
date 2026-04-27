@@ -20,7 +20,7 @@ const vt323 = VT323({
 });
 
 export const metadata: Metadata = {
-  title: "WU.TIANHAO · CHAR_SHEET_",
+  title: "FLAME · CHAR_SHEET_",
   description: "90s game-themed portfolio · Mech Engineer & AI Operator",
 };
 

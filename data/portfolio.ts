@@ -10,8 +10,8 @@ export const HUD = {
 };
 
 export const CHAR_SHEET = {
-  nameEn: "WU.TIANHAO",
-  nameCn: "吴天昊 · BJUT_M.ENG",
+  nameEn: "FLAME",
+  nameCn: "Flame · BJUT_M.ENG",
   role: "MECH_ENGINEER · AI_OPERATOR",
   avatar: "/avatar.svg",
   stats: [
@@ -36,7 +36,7 @@ export const ABOUT = {
   quote:
     '"Engineer by training, operator by craft — bridging hardcore mechanics with AI-driven products."',
   paragraphs: [
-    "我是吴天昊，目前在 **北京工业大学** 攻读机械工程与控制系统方向硕士；同时在 **北京航林益达科技有限公司** 担任结构设计工程师与研究助理。",
+    "我是 Flame，目前在 **北京工业大学** 攻读机械工程与控制系统方向硕士；同时在 **北京航林益达科技有限公司** 担任结构设计工程师与研究助理。",
     "在工程领域之外，我也是一名 **AI 产品运营专家**，深度参与过美图秀秀、醒图等头部修图应用的运营策略，专注于把硬核工程方法论搬进 AI 内容产品的增长链路。",
     "我相信跨界是这个时代最好的杠杆 —— **with a deep focus on control systems and AI-augmented operations.**",
   ],
@@ -143,13 +143,13 @@ export const WRITING = {
     },
   ],
   endLabel: "... END OF LOGS ...",
-  ctaLabel: "READ MORE @WuTianhao",
+  ctaLabel: "READ MORE @Flame",
 };
 
 export const CONTACT = {
   social: {
-    x: "@wutianhao",
-    linkedin: "in/wutianhao/",
+    x: "@flame",
+    linkedin: "in/flame/",
   },
   open: {
     title: "OPEN FOR QUESTS",
